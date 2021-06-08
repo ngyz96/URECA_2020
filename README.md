@@ -1,4 +1,4 @@
-# URECA_2020
+# Undergraduate Research Experience on Campus (URECA) AY2019/2020
 
 
 Large-scale analysis of transcriptomic dysregulation in Alzheimer's Disease
